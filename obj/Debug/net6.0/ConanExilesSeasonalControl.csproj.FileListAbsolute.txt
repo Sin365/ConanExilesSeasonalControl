@@ -1,0 +1,17 @@
+E:\ConanExilesSeasonalControl\bin\Debug\net6.0\ConanExilesSeasonalControl.exe
+E:\ConanExilesSeasonalControl\bin\Debug\net6.0\ConanExilesSeasonalControl.deps.json
+E:\ConanExilesSeasonalControl\bin\Debug\net6.0\ConanExilesSeasonalControl.runtimeconfig.json
+E:\ConanExilesSeasonalControl\bin\Debug\net6.0\ConanExilesSeasonalControl.dll
+E:\ConanExilesSeasonalControl\bin\Debug\net6.0\ref\ConanExilesSeasonalControl.dll
+E:\ConanExilesSeasonalControl\bin\Debug\net6.0\ConanExilesSeasonalControl.pdb
+E:\ConanExilesSeasonalControl\bin\Debug\net6.0\MinecraftServerRCON.dll
+E:\ConanExilesSeasonalControl\obj\Debug\net6.0\ConanExilesSeasonalControl.csproj.AssemblyReference.cache
+E:\ConanExilesSeasonalControl\obj\Debug\net6.0\ConanExilesSeasonalControl.GeneratedMSBuildEditorConfig.editorconfig
+E:\ConanExilesSeasonalControl\obj\Debug\net6.0\ConanExilesSeasonalControl.AssemblyInfoInputs.cache
+E:\ConanExilesSeasonalControl\obj\Debug\net6.0\ConanExilesSeasonalControl.AssemblyInfo.cs
+E:\ConanExilesSeasonalControl\obj\Debug\net6.0\ConanExilesSeasonalControl.csproj.CoreCompileInputs.cache
+E:\ConanExilesSeasonalControl\obj\Debug\net6.0\ConanExilesSeasonalControl.csproj.CopyComplete
+E:\ConanExilesSeasonalControl\obj\Debug\net6.0\ConanExilesSeasonalControl.dll
+E:\ConanExilesSeasonalControl\obj\Debug\net6.0\ref\ConanExilesSeasonalControl.dll
+E:\ConanExilesSeasonalControl\obj\Debug\net6.0\ConanExilesSeasonalControl.pdb
+E:\ConanExilesSeasonalControl\obj\Debug\net6.0\ConanExilesSeasonalControl.genruntimeconfig.cache
